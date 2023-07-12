@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(250, 239, 218);
+}
+h2{
+    color: rgb(139, 139, 125);
+    font-family: 'Brush Script MT', cursive;
+    font-size: 55px;
+    background-color:azure;
+}
+.Emma{
+    background-color:azure;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 35px;
+    color: rgb(139, 139, 125);
+}
+.Images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.Em{
+    width: 450px;
+}
+.Emm{
+    width: 450px;
+}
